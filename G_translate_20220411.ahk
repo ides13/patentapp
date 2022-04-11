@@ -9,6 +9,9 @@
 
 ; 其他，要新增語言時，可以參考下方的「LanguageCodeArray」的語言代碼。
 
+;另一個常用功能，「無格式貼上」。
+; Ctrl, Win及v鍵，「無格式貼上」並替換字元。
+
 
 HotstringMenuAutoExecute:
     current_code := "zh-TW" 
